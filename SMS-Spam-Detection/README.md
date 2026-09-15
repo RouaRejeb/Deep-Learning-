@@ -177,12 +177,7 @@ Overall, this project gave me a much better understanding of the complete NLP wo
 SMS-Spam-Detection/
 │
 ├── spamprediction.ipynb
-├── cleaned_spam_data.csv
-├── X_features.npz
-├── y_encoded.npy
-├── y_test.npy
-├── y_pred.npy
-├── xgboost_spam_model.pkl
+├── spam.csv
 └── README.md
 ```
 
